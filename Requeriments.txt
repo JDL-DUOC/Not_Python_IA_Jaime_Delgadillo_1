@@ -1,8 +1,0 @@
-pdfplumber
-langchain
-langchain-openai
-langchain-google-genai
-faiss-cpu
-sentence-transformers
-numpy
-openai
